@@ -32,3 +32,12 @@ a {
 img {
   width: 100%;
 }
+
+.address__global {
+  font-style: normal;
+}
+
+button {
+  cursor: pointer;
+  background-color: transparent;
+}
