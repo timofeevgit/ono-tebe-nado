@@ -1,4 +1,8 @@
 /* Section */
+.container {
+  margin: auto;
+}
+
 .section {
   width: 100%;
   max-width: 1440px;
